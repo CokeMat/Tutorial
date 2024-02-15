@@ -1,3 +1,3 @@
-print("Hola mundo!!!")
-print("Me llamo Jorge.")
-print(" 1 2 3 4")
+print("Adios mundo!!!")
+print("Mañana es viernes.")
+print("9 8 7 6")
