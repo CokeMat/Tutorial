@@ -1,1 +1,2 @@
 Obtener datos usuario:
+crear objeto
